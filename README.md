@@ -56,6 +56,7 @@ The project followed a structured workflow:
 ---
 
 ## Project Structure
+```bash
 .
 ├── final_submission/
 │   ├── Image_Classification_Notebook.ipynb  # Main notebook with all code
@@ -64,7 +65,7 @@ The project followed a structured workflow:
 │   ├── Report.pdf                         # Detailed project report
 │   └── README.md                          # This README file
 └── dataset.zip                            # The original zipped dataset
-
+```
 ---
 
 ## Setup and Installation
