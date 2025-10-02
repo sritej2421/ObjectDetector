@@ -56,14 +56,13 @@ The project followed a structured workflow:
 ---
 
 ## Project Structure
-
+.
 ├── final_submission/
-│   ├── Image_Classification_Notebook.ipynb  # Main Jupyter Notebook
-│   ├── vehicle_classifier.onnx            # Final ONNX model
+│   ├── Image_Classification_Notebook.ipynb  # Main notebook with all code
+│   ├── vehicle_classifier.onnx            # Final exported ONNX model
 │   ├── classes.txt                        # List of vehicle classes
 │   ├── Report.pdf                         # Detailed project report
 │   └── README.md                          # This README file
-│
 └── dataset.zip                            # The original zipped dataset
 
 ---
